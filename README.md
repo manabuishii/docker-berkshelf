@@ -1,5 +1,6 @@
 # docker-berkshelf
-berkshelf
+
+berkshelf 4.1.0
 
 # HOWTO use
 
