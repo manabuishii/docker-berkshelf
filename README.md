@@ -1,36 +1,36 @@
 # docker-berkshelf
 
-berkshelf 4.3.1
+berkshelf 4.3.2
 
 # HOWTO use
 
 ## docker pull
 
 ```
-docker pull manabuishii/docker-berkshelf:4.3.1
+docker pull manabuishii/docker-berkshelf:4.3.2
 ```
 
 ## berks version
 
 ```
-docker run -u $UID  --rm -v $PWD:/work -t manabuishii/docker-berkshelf:4.3.1 berks version
+docker run -u $UID  --rm -v $PWD:/work -t manabuishii/docker-berkshelf:4.3.2 berks version
 ```
 
 result
 
 ```
-4.3.1
+4.3.2
 ```
 
 
 ## berks vendor cookbook
 
 ```
-docker run -u $UID  --rm -v $PWD:/work -t manabuishii/docker-berkshelf:4.3.1 berks vendor cookbook
+docker run -u $UID  --rm -v $PWD:/work -t manabuishii/docker-berkshelf:4.3.2 berks vendor cookbook
 ```
 
 ## berks viz
 
 ```
-docker run -u $UID  --rm -v $PWD:/work -t manabuishii/docker-berkshelf:4.3.1 berks viz
+docker run -u $UID  --rm -v $PWD:/work -t manabuishii/docker-berkshelf:4.3.2 berks viz
 ```
