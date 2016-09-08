@@ -1,4 +1,4 @@
-[![](https://images.microbadger.com/badges/image/manabuishii/docker-berkshelf.svg)]
+![](https://images.microbadger.com/badges/image/manabuishii/docker-berkshelf.svg)
 
 # docker-berkshelf
 
