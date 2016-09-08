@@ -1,5 +1,4 @@
-![](https://images.microbadger.com/badges/image/manabuishii/docker-berkshelf.svg)
-
+[![](https://images.microbadger.com/badges/image/manabuishii/docker-berkshelf.svg)](https://microbadger.com/images/manabuishii/docker-berkshelf "Get your own image badge on microbadger.com")
 # docker-berkshelf
 
 berkshelf 5.0.0
