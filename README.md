@@ -3,7 +3,7 @@
 
 berkshelf 5.5.0
 
-ruby 2.3.1
+ruby 2.3.3
 
 # hub.docker.com
 
