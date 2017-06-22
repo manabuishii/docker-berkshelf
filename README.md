@@ -1,7 +1,7 @@
 [![](https://images.microbadger.com/badges/image/manabuishii/docker-berkshelf.svg)](https://microbadger.com/images/manabuishii/docker-berkshelf "Get your own image badge on microbadger.com")
 # docker-berkshelf
 
-berkshelf 6.1.0
+berkshelf 6.1.1
 
 ruby 2.3.3
 
@@ -14,30 +14,30 @@ ruby 2.3.3
 ## docker pull
 
 ```
-docker pull manabuishii/docker-berkshelf:6.1.0
+docker pull manabuishii/docker-berkshelf:6.1.1
 ```
 
 ## berks version
 
 ```
-docker run -u $UID  --rm -v $PWD:/work -t manabuishii/docker-berkshelf:6.1.0 berks version
+docker run -u $UID  --rm -v $PWD:/work -t manabuishii/docker-berkshelf:6.1.1 berks version
 ```
 
 result
 
 ```
-6.1.0
+6.1.1
 ```
 
 
 ## berks vendor cookbook
 
 ```
-docker run -u $UID  --rm -v $PWD:/work -t manabuishii/docker-berkshelf:6.1.0 berks vendor cookbook
+docker run -u $UID  --rm -v $PWD:/work -t manabuishii/docker-berkshelf:6.1.1 berks vendor cookbook
 ```
 
 ## berks viz
 
 ```
-docker run -u $UID  --rm -v $PWD:/work -t manabuishii/docker-berkshelf:6.1.0 berks viz
+docker run -u $UID  --rm -v $PWD:/work -t manabuishii/docker-berkshelf:6.1.1 berks viz
 ```
