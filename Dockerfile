@@ -1,4 +1,4 @@
-FROM ruby:2.3.4
+FROM ruby:2.5.1
 MAINTAINER manabu.ishii.rb@gmail.com
 RUN apt-get update; apt-get install -y graphviz ; apt-get clean  && rm -rf /var/lib/apt/lists/*
 RUN gem install --no-ri --no-rdoc berkshelf -v 6.3.2
