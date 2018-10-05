@@ -5,6 +5,10 @@ berkshelf 7.0.4
 
 ruby 2.5.1
 
+# Berkshelf
+
+[berkshelf/berkshelf: A Chef Cookbook manager](https://github.com/berkshelf/berkshelf) 
+
 # hub.docker.com
 
 [docker-berkshelf on hub.docker.com](https://hub.docker.com/r/manabuishii/docker-berkshelf/)
